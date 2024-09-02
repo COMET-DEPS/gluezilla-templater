@@ -1,0 +1,8 @@
+.vscode/
+!.vscode/extensions.json
+bin/
+build/
+data/
+docs/html/
+include/version.h
+config.ini

@@ -1,0 +1,5 @@
+﻿---
+BasedOnStyle: LLVM
+AllowShortFunctionsOnASingleLine: Empty
+AlwaysBreakTemplateDeclarations: Yes
+Cpp11BracedListStyle: false
